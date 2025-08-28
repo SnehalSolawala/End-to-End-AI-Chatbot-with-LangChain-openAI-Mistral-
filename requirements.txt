@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+langchain-openai
+ipykernel
+langchain_community
+faiss-cpu
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
